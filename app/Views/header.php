@@ -11,7 +11,7 @@
 					<ul class="links">
 		                <li class="active"> <a href="<?php echo site_url()?>">Home </a> </li>
 
-		                <li> <a href="<?php echo site_url()?>book_table">Book a Table</a> </li>
+		                <li> <a href="<?php echo site_url()?>book_table">Book A Table</a> </li>
 
 		                <li> <a href="<?php echo site_url()?>menu">Menu</a> </li>
 
